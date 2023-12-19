@@ -1,4 +1,3 @@
-## Profile Documentation
 <!--
 
 **Here are some ideas to get you started:**
@@ -9,3 +8,21 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+# Pawtopia
+Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was formed to participate Capstone Project in the Bangkit Academy H2 2023.
+
+The members of the Pawtopia team are as follows:
+
+* (ML) M249BSY070 – Hanif Ridal Warits – Langlang Buana University - [Active]
+* (ML) M249BSY1010 – Azka Fauzan Firdaus – Langlang Buana University - [Active]
+* (ML) M297BSY0817 – Hafid Rizki Nur Rohman – Pembangunan Nasional Veteran Yogyakarta University - [Active]
+* (CC)  C249BSY3957 – Daffa Fauzan Dzaki –  Langlang Buana University  - [Active]
+* (CC)  C476BSX3224 – Dewi Mukti – Widyatama University - [Active]
+* (MD) A485BSY2036 – Muhamad Anis – STMIK Widya Pratama - [Active]
+* (MD) A319BSX2449 – Ruth Damayanthy Purba – Sumatera Utara University - [Active]
+
+The project is a mobile application that aims to help people understanding and and treat their pet's diseases.
+
+![image](https://github.com/PawTopia/.github/assets/115199962/a7b62bc0-2a18-4499-adcc-4c5736a45796)
+
