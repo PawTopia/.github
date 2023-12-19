@@ -14,13 +14,15 @@ Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was fo
 
 The members of the Pawtopia team are as follows:
 
-* (ML) M249BSY070 – Hanif Ridal Warits – Langlang Buana University
-* (ML) M249BSY1010 – Azka Fauzan Firdaus – Langlang Buana University
-* (ML) M297BSY0817 – Hafid Rizki Nur Rohman – Pembangunan Nasional Veteran Yogyakarta University
-* (CC)  C249BSY3957 – Daffa Fauzan Dzaki –  Langlang Buana University
-* (CC)  C476BSX3224 – Dewi Mukti – Widyatama University
-* (MD) A485BSY2036 – Muhamad Anis – STMIK Widya Pratama
-* (MD) A319BSX2449 – Ruth Damayanthy Purba – Sumatera Utara University
+| Name  | Bangkit ID | Learning Path | University |
+| ------------- | ------------- | ------------- | ------------- |
+| Hanif Ridal Warits  | M249BSY0708  | Machine Learning | Langlang Buana University |
+| Azka Fauzan Firdaus  | M249BSY1010  | Machine Learning | Langlang Buana University |
+| Hafid Rizki Nur Rohman  | M297BSY0817  | Machine Learning | Pembangunan Nasional Veteran Yogyakarta University |
+| Daffa Fauzan Dzaki  | C249BSY3957  | Cloud Computing | Langlang Buana University |
+| Dewi Mukti  | C476BSX3224  | Cloud Computing | Widyatama University |
+| Muhamad Anis  | A485BSY2036  | Mobile Development | STMIK Widya Pratama |
+| Ruth Damayanthy Purba  | A319BSX2449  | Mobile Development | Sumatera Utara University |
 
 The project is a mobile application that aims to help people understanding and and treat their pet's diseases.
 
