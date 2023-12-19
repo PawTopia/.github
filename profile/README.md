@@ -9,10 +9,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Pawtopia
-Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was formed to participate Capstone Project in the Bangkit Academy H2 2023.
-
-The members of the Pawtopia team are as follows:
+# Pawtopia CH2-PS325
+Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was formed to participate Capstone Project in the Bangkit Academy H2 2023. The members of the Pawtopia team are as follows:
 
 | Name  | Bangkit ID | Learning Path | University |
 | ------------- | ------------- | ------------- | ------------- |
