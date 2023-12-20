@@ -12,15 +12,15 @@
 # Pawtopia CH2-PS325
 Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was formed to participate Capstone Project in the Bangkit Academy H2 2023. The members of the Pawtopia team are as follows:
 
-| Name  | Bangkit ID | Learning Path | University |
-| ------------- | ------------- | ------------- | ------------- |
-| Hanif Ridal Warits  | M249BSY0708  | Machine Learning | Langlang Buana University |
-| Azka Fauzan Firdaus  | M249BSY1010  | Machine Learning | Langlang Buana University |
-| Hafid Rizki Nur Rohman  | M297BSY0817  | Machine Learning | Pembangunan Nasional Veteran Yogyakarta University |
-| Daffa Fauzan Dzaki  | C249BSY3957  | Cloud Computing | Langlang Buana University |
-| Dewi Mukti  | C476BSX3224  | Cloud Computing | Widyatama University |
-| Muhamad Anis  | A485BSY2036  | Mobile Development | STMIK Widya Pratama |
-| Ruth Damayanthy Purba  | A319BSX2449  | Mobile Development | Sumatera Utara University |
+| Name  | Bangkit ID | Learning Path | University | Social Media |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Hanif Ridal Warits  | M249BSY0708  | Machine Learning | Langlang Buana University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+| Azka Fauzan Firdaus  | M249BSY1010  | Machine Learning | Langlang Buana University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+| Hafid Rizki Nur Rohman  | M297BSY0817  | Machine Learning | Pembangunan Nasional Veteran Yogyakarta University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+| Daffa Fauzan Dzaki  | C249BSY3957  | Cloud Computing | Langlang Buana University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+| Dewi Mukti  | C476BSX3224  | Cloud Computing | Widyatama University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+| Muhamad Anis  | A485BSY2036  | Mobile Development | STMIK Widya Pratama | ![Static Badge](https://img.shields.io/badge/Muhamad_Anis-black?logo=github&label=Github&link=https%3A%2F%2Fgithub.com%2Fanismhub) |
+| Ruth Damayanthy Purba  | A319BSX2449  | Mobile Development | Sumatera Utara University | <div id="badges"> <a href="[your-linkedin-URL](https://github.com/anismhub)">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="LinkedIn Badge"/></a> <a href="your-linkedin-URL"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div> |
 
 The project is a mobile application that aims to help people understanding and and treat their pet's diseases.
 
