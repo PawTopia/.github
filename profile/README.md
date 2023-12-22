@@ -30,7 +30,7 @@ The project is a mobile application that aims to help people understanding and a
 <a href="https://github.com/PawTopia/Machine-Learning"> <img src="https://img.shields.io/badge/Machine_Learning_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
 
 ### Cloud Computing Repository
-<a href="https://github.com/PawTopia/Petsymptoms"> <img src="https://img.shields.io/badge/Cloud_Computing_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
+<a href="https://github.com/PawTopia/Helper-api-pawtopia"> <img src="https://img.shields.io/badge/Cloud_Computing_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
 
 ### Mobile Development Repository
 <a href="https://github.com/PawTopia/Mobile-Dev"> <img src="https://img.shields.io/badge/Mobile_Development_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
